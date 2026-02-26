@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.2.0",
+    "@clerk/nextjs": "^6.38.2",
     "@hookform/resolvers": "^5.2.2",
     "@prisma/client": "^7.4.1",
     "class-variance-authority": "^0.7.1",
@@ -17,6 +18,7 @@
     "cmdk": "^1.1.1",
     "date-fns": "^4.1.0",
     "embla-carousel-react": "^8.6.0",
+    "inngest": "^3.52.3",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.575.0",
     "next": "16.1.6",
@@ -28,6 +30,7 @@
     "react-dom": "19.2.3",
     "react-hook-form": "^7.71.2",
     "react-resizable-panels": "^4.6.5",
+    "react-textarea-autosize": "^8.5.9",
     "recharts": "^2.15.4",
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.5.0",
